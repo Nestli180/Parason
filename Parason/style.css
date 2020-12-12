@@ -1,56 +1,68 @@
 body {
-    max-width: 1700px;
-    font-family: 'Do Hyeon', sans-serif;
-    background-color: #f0f0f0;
+  max-width: 1700px;
+  font-family: 'Do Hyeon', sans-serif;
+  background-color: #f0f0f0;
 }
 
 .head_1 {
-    background-color: #f0f0f0;
+  background-color: #f0f0f0;
 }
 
 img {
-    height: 70px;
-    width: 70px;
-    margin: 20px;
+  height: 70px;
+  width: 70px;
+  margin: 20px;
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 section {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
-section div img {
-    width: 300px;
-    height: 300px;
-}
-
-section div p {
-    text-align: right;
+.picture {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .picture_2 {
-    text-align: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+section div img {
+  width: 300px;
+  height: 300px;
+}
+
+section div p {
+  text-align: right;
 }
 
 .down {
-    background-color: #c4c4c4;
-    height: 2px;
-    width: auto;
+  background-color: #c4c4c4;
+  height: 2px;
+  width: auto;
 }
 
 .page_2 {
-    margin: 50px;
+  margin: 50px;
+}
+
+iframe {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 
 h3 {
-    text-align: center;
-    color: rgb(214, 0, 0);
+  text-align: center;
+  color: #d40000;
 }
-
-
 /*# sourceMappingURL=style.css.map */
