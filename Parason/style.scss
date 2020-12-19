@@ -43,17 +43,44 @@ section div p {
     background-color: rgb(196, 196, 196);
     height: 2px;
     width: auto;
+    margin: 70px;
 }
 
 .page_2 {
     margin: 50px;
 }
 
-iframe {
-    align-self: center;
-}
+.vid {}
 
 h3 {
     text-align: center;
-    color: rgb(212, 0, 0);
+    color: rgb(211, 0, 0);
+}
+
+.page_3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    grid-gap: 30px;
+}
+
+div div img {
+    width: 300px;
+    height: 300px;
+}
+
+.text_2 {
+    width: 300px;
+}
+
+.down_2 {
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(117, 17, 17);
+    background-color: rgb(253, 80, 80);
 }

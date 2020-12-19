@@ -49,20 +49,45 @@ section div p {
   background-color: #c4c4c4;
   height: 2px;
   width: auto;
+  margin: 70px;
 }
 
 .page_2 {
   margin: 50px;
 }
 
-iframe {
-  -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
-}
-
 h3 {
   text-align: center;
-  color: #d40000;
+  color: #d30000;
+}
+
+.page_3 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  grid-gap: 30px;
+}
+
+div div img {
+  width: 300px;
+  height: 300px;
+}
+
+.text_2 {
+  width: 300px;
+}
+
+.down_2 {
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  border-color: #751111;
+  background-color: #fd5050;
 }
 /*# sourceMappingURL=style.css.map */
