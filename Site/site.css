@@ -1,0 +1,66 @@
+body {
+  font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
+}
+
+body section {
+  background-color: #6847ff;
+  width: 100%;
+  height: 570px;
+}
+
+body section img {
+  height: 28px;
+  width: 71px;
+  margin: 5px;
+}
+
+body section .a_links {
+  text-align: right;
+}
+
+body section .a_links a {
+  color: white;
+}
+
+body section .a_links a {
+  color: #c7bafd;
+  margin: 5px;
+}
+
+body section .img2 {
+  text-align: right;
+}
+
+body section div img {
+  width: 480px;
+  height: 300px;
+}
+
+body section .text1 {
+  margin: 100px;
+}
+
+body section .text1 h1 {
+  font-size: 2.5rem;
+  color: white;
+}
+
+body section .text1 p {
+  font: 400 1.125rem/1.75rem "Open Sans", sans-serif;
+  color: white;
+}
+
+body section .text1 button {
+  display: inline-block;
+  padding: 1.375rem 2.625rem 1.375rem 2.625rem;
+  border: 0.125rem solid #5f4dee;
+  border-radius: 2rem;
+  background-color: #ffffff;
+  color: #fff;
+  font: 700 0.875rem/0 "Open Sans", sans-serif;
+  text-decoration: none;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+/*# sourceMappingURL=site.css.map */

@@ -1,0 +1,53 @@
+body {
+    font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
+    section {
+        background-color: #6847ff;
+        width: 100%;
+        height: 570px;
+        img {
+            height: 28px;
+            width: 71px;
+            margin: 5px;
+        }
+        .a_links {
+            a {
+                color: white;
+            }
+            text-align: right;
+            a {
+                color: #c7bafd;
+                margin: 5px;
+            }
+        }
+        .img2 {
+            text-align: right;
+        }
+        div img {
+            width: 480px;
+            height: 300px;
+        }
+        .text1 {
+            margin: 100px;
+            h1 {
+                font-size: 2.5rem;
+                color: white;
+            }
+            p {
+                font: 400 1.125rem/1.75rem "Open Sans", sans-serif;
+                color: white;
+            }
+            button {
+                display: inline-block;
+                padding: 1.375rem 2.625rem 1.375rem 2.625rem;
+                border: 0.125rem solid #5f4dee;
+                border-radius: 2rem;
+                background-color: #ffffff;
+                color: #fff;
+                font: 700 0.875rem/0 "Open Sans", sans-serif;
+                text-decoration: none;
+                transition: all 0.2s;
+                cursor: pointer;
+            }
+        }
+    }
+}

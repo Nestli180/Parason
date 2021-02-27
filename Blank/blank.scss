@@ -1,0 +1,187 @@
+.banner {
+    width: 100%;
+    height: 996px;
+    background-image: url(http://images03.nicepage.io/05136ab1d24c39d6df2c5e00/f015a76c69245d0b99b5695b/bg2.jpg);
+    background-size: cover;
+    div {
+        text-align: center;
+        padding-left: 4rem;
+    }
+    h1 {
+        font-size: 120px;
+        margin: 0;
+        padding-top: 30rem;
+    }
+    h5 {
+        font-size: 72px;
+        margin: 0;
+        font-family: 'Roboto', sans-serif;
+    }
+    p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 25px;
+    }
+}
+
+.middle {
+    .text2 {
+        width: 411px;
+        height: 260px;
+        padding-left: 50rem;
+        padding-top: 10rem;
+        p {
+            color: white;
+            margin: 0;
+            font-size: 40px;
+            text-align: right;
+        }
+        h1 {
+            color: white;
+            font-size: 110px;
+            margin: 0;
+            text-align: right;
+        }
+        h6 {
+            font-size: 13px;
+            color: white;
+            text-align: right;
+            margin: 0;
+        }
+    }
+    background-color: rgb(230, 54, 54);
+    width: 100%;
+    height: 679px;
+    display: flex;
+    font-family: 'Open Sans',
+    sans-serif;
+    text-align: right;
+}
+
+.img2 {
+    text-align: right;
+    width: 631px;
+    height: 638px;
+    margin: 0;
+    img {
+        width: 673px;
+        height: 679px;
+    }
+}
+
+.mid {
+    background-color: black;
+    width: 100%;
+    height: 679px;
+    .text_mid {
+        color: white;
+        display: flex;
+        text-align: left;
+        padding-left: 30rem;
+        .textbold {
+            padding-left: 10rem;
+        }
+        .big {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: bold;
+            margin: 0;
+            font-weight: 1000;
+            font-size: 9.375rem;
+        }
+        .midmid {
+            font-size: 3rem;
+            text-transform: uppercase;
+            font-weight: 300;
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+        }
+        .p1 {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 900;
+            margin: 0;
+            font-size: 3rem;
+            text-transform: uppercase;
+            padding-bottom: 10px;
+        }
+        .p2 {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 900;
+            margin: 0;
+            font-size: 3rem;
+            text-transform: uppercase;
+            padding-bottom: 10px;
+        }
+        .text3 {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+        }
+    }
+}
+
+.foot {
+    background-image: url(//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/5c2634996bff53a7a994b924/pexelsphoto218863.jpeg);
+    background-position: 50% 50%;
+    background-size: cover;
+    max-width: 100%;
+    height: 558px;
+    .textpc {
+        color: white;
+        position: relative;
+        max-width: 84%;
+        height: 558px;
+        margin: 0 auto;
+        justify-content: flex-end;
+        .p9 {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0 auto;
+            font-size: 3rem;
+            position: relative;
+            padding-top: 15rem;
+        }
+        .big {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0 auto;
+            font-size: 3rem;
+            text-transform: uppercase;
+            position: relative;
+        }
+    }
+}
+
+.Follow {
+    max-width: 100%;
+    background-color: rgb(241, 48, 48);
+    height: 300px;
+    .txtx {
+        max-width: 15%;
+        height: 300px;
+        margin: 0 auto;
+        padding-top: 4.7rem;
+        b {
+            color: white;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 3rem;
+            margin: 0 auto;
+        }
+    }
+    .imgggg {
+        height: 50px;
+        width: 50px;
+        margin: 0 auto;
+        display: flex;
+        max-width: 15%;
+        img {
+            height: 50px;
+            width: 50px;
+            margin: 0 auto;
+            margin: 6px;
+        }
+    }
+}
+
+.phph {
+    align-self: center;
+    background-color: white;
+    height: 10px;
+    width: 100px;
+    margin: 0 auto;
+}
