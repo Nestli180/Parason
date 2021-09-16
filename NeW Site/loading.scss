@@ -1,5 +1,60 @@
 body
 {
-    background: #111;
+    background: white;
     font-family: Open Sans;
+    width: 100%;
+    font-family: 'Kufam', sans-serif;
+}
+header
+{
+background: rgb(40, 36, 68);
+width: 100%;
+height: 80px;
+}
+
+ul img
+{
+    width: 40px;
+    padding: 5px;
+    padding-top: 20px;
+}
+
+.icons
+{
+    margin-right: 30px;
+}
+
+.icon_log
+{
+    padding-right: 20px;
+}
+main
+{
+    height: 1000px;
+    width: 100%;
+    justify-content: center;
+    background-image: url(https://lh3.googleusercontent.com/proxy/eo9zG66Y6U7Z4xc7HgHvnLB7gBjImwIeWcn8qk9vNB-6Qh1jg2WLgeR8t2U_OVbsJK6ZxoHPV25oeU6qI51oEQzEy1zNOZTPcyFzXfLrMeahRQY);
+}
+.title
+{
+    display: flex;
+}
+.text-main
+{
+    width: 500px;
+    padding: 20px;
+}
+main div div h1
+{
+    color: white;
+}
+main div div p
+{
+    color: white;
+}
+.img-programm
+{
+    width: 700px;
+    padding-top: 100px;
+    padding-left: 30px;
 }
