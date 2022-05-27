@@ -1,0 +1,54 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body header {
+  width: 100%;
+  height: 500px;
+}
+
+body header h1 {
+  text-align: center;
+}
+
+body header p {
+  text-align: center;
+}
+
+body header img {
+  width: 60px;
+  height: 60px;
+}
+
+body header .head_plus {
+  width: 100%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body header .head_plus .img_123 {
+  width: 500px;
+  height: 500px;
+}
+
+body header .head_plus .text_1 h1 {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 7rem;
+}
+
+body header .head_plus .text_1 p {
+  padding-top: 1rem;
+}
+
+body header .head_plus .text_2 {
+  text-align: center;
+}
+
+body header .head_plus .text_2 img {
+  width: 400px;
+  height: 400px;
+}
+/*# sourceMappingURL=site_2.css.map */
